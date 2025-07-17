@@ -54,8 +54,9 @@ This project is part of the **SkillCraft Data Science & Visualization Track – 
 
 ## 🖼️ Sample Visualizations
 
-> _(Accidents by Hour of Day.png)_
-> _(Top 10 Weather Conditions.png)_
+![Accidents by Hour of Day graph](/Accidents_by_Hour_of_Day.png)
+![Top 10 Weather Conditions graph](/Top_10_Weather_Conditions.png)
+
 - 📍 Accident Hotspot Map  
 - 🕒 Accidents by Hour  
 - 📅 Accidents by Day and Month  
