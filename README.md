@@ -54,7 +54,8 @@ This project is part of the **SkillCraft Data Science & Visualization Track – 
 
 ## 🖼️ Sample Visualizations
 
-- **Jupyter notebook** : (US_Accidents_Task4_Analysis.ipynb)
+> _(Accidents by Hour of Day.png)_
+> _(Top 10 Weather Conditions.png)_
 - 📍 Accident Hotspot Map  
 - 🕒 Accidents by Hour  
 - 📅 Accidents by Day and Month  
